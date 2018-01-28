@@ -2,7 +2,9 @@
 # coding: utf-8
 
 # In[ ]:
+
 from ipywidgets import interact_manual
+from pyDatalog import pyDatalog
 def pro(a, b):
     return a*b*0.001
 def percent(a):
